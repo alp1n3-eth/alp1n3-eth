@@ -20,9 +20,33 @@ I'm <b>Evan</b>, a recent grad from Dakota State University specializing in cybe
 Here you'll find my random repositories of projects, papers from college, and some books/certs I'm interested in currently. Feel free to reach out to me via my Twitter, Telegram, or Signal (+1 803-599-8346).
 
 ### Trainings / Courses
-[✅] Analyzing Java & .NET Malware - 
-[] Practical Malware Analysis & Triage - 
+[✅] Reverse Engineering & Malware Analysis of .NET & Java - 
+<br>
+[] TCM Practical Malware Analysis & Triage - 
+<br>
+[✅] Sektor7 Malware Development Essentials - 
+<br>
+[] Sektor7 Malware Development Intermediate - 
+<br>
+[] Sektor7 Malware Development Advanced - 
+<br>
+[] Maldev Academy - 
+<br>
+[] WeHackPurple Secure Coding & Application Security Foundations 1, 2, 3
+
 
 ### Certifications
+[✅] CompTIA CySA+ - 
+<br>
+[] TCM Practical Junior Malware Researcher - 
+<br>
+[] OffSec Advanced Web Attacks and Exploitation (OSWE) - 
+<br>
+[] HTB Certified Bug Bounty Hunter - 
+<br>
+[✅] TestOut Security, Network, PC, Client Pro
 
 ### Books
+[] Bug Bounty Bootcamp - 
+<br>
+[] The Art of Mac Malware - 
