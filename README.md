@@ -22,31 +22,31 @@ Here you'll find my random repositories of projects, papers from college, and so
 ### Trainings / Courses
 [✅] Reverse Engineering & Malware Analysis of .NET & Java - 
 <br>
-[] TCM Practical Malware Analysis & Triage - 
+[🔄] TCM Practical Malware Analysis & Triage - 
 <br>
 [✅] Sektor7 Malware Development Essentials - 
 <br>
-[] Sektor7 Malware Development Intermediate - 
+[🔄] Sektor7 Malware Development Intermediate - 
 <br>
-[] Sektor7 Malware Development Advanced - 
+[❌] Sektor7 Malware Development Advanced - 
 <br>
-[] Maldev Academy - 
+[❌] Maldev Academy - 
 <br>
-[] WeHackPurple Secure Coding & Application Security Foundations 1, 2, 3
+[❌] WeHackPurple Secure Coding & Application Security Foundations 1, 2, 3
 
 
 ### Certifications
 [✅] CompTIA CySA+ - 
 <br>
-[] TCM Practical Junior Malware Researcher - 
+[❌] TCM Practical Junior Malware Researcher - 
 <br>
-[] OffSec Advanced Web Attacks and Exploitation (OSWE) - 
+[❌] OffSec Advanced Web Attacks and Exploitation (OSWE) - 
 <br>
-[] HTB Certified Bug Bounty Hunter - 
+[❌] HTB Certified Bug Bounty Hunter - 
 <br>
 [✅] TestOut Security, Network, PC, Client Pro
 
 ### Books
-[] Bug Bounty Bootcamp - 
+[❌] Bug Bounty Bootcamp - 
 <br>
-[] The Art of Mac Malware - 
+[❌] The Art of Mac Malware - 
