@@ -16,3 +16,13 @@ Here are some ideas to get you started:
 -->
 
 I'm <b>Evan</b>, a recent grad from Dakota State University specializing in cyber security.
+
+Here you'll find my random repositories of projects, papers from college, and some books/certs I'm interested in currently. Feel free to reach out to me via my Twitter, Telegram, or Signal (+1 803-599-8346).
+
+### Trainings / Courses
+[✅] Analyzing Java & .NET Malware - 
+[] Practical Malware Analysis & Triage - 
+
+### Certifications
+
+### Books
