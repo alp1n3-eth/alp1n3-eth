@@ -36,6 +36,7 @@ Here you'll find my random repositories of projects, papers from college, and so
 <br>
 [❌] 100 Days of SwiftUI
 <br>
+[🔄] Exercism: [🔄] JavaScript, [❌] Python, [❌] Rust, [❌] Go
 
 ### Certifications
 [✅] CompTIA CySA+
@@ -47,8 +48,6 @@ Here you'll find my random repositories of projects, papers from college, and so
 [❌] HTB Certified Bug Bounty Hunter
 <br>
 [✅] TestOut Security, Network, PC, Client Pro
-<br>
-[🔄] Exercism: [🔄] JavaScript, [❌] Python, [❌] Rust, [❌] Go
 
 ### Languages / Frameworks / Stacks
 (ranked by familiarity)
