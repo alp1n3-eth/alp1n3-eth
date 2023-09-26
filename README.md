@@ -46,6 +46,14 @@ Here you'll find my random repositories of projects, papers from college, and so
 <br>
 [✅] TestOut Security, Network, PC, Client Pro
 
+### Languages / Frameworks / Stacks
+(ranked by familiarity)
+1. Python
+2. JavaScript
+3. Sveltekit + Postgres
+4. C
+5. Go
+
 ### Books
 [❌] Bug Bounty Bootcamp
 <br>
