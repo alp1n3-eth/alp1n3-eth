@@ -50,9 +50,16 @@ Here you'll find my random repositories of projects, papers from college, and so
 (ranked by familiarity)
 1. Python
 2. JavaScript
-3. Sveltekit + Postgres
-4. C
-5. Go
+3. Sveltekit + Tailwind
+4. PostgreSQL / Supabase
+5. C
+6. Go
+
+### Tools
+1. Burp Suite Pro
+2. Wireshark / Brim
+3. VMWare / Hyper-V
+4. Semgrep
 
 ### Books
 [❌] Bug Bounty Bootcamp
