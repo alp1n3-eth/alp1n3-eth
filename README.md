@@ -34,6 +34,8 @@ Here you'll find my random repositories of projects, papers from college, and so
 <br>
 [❌] WeHackPurple Secure Coding & Application Security Foundations 1, 2, 3
 <br>
+[❌] 100 Days of SwiftUI
+<br>
 
 ### Certifications
 [✅] CompTIA CySA+
@@ -45,6 +47,8 @@ Here you'll find my random repositories of projects, papers from college, and so
 [❌] HTB Certified Bug Bounty Hunter
 <br>
 [✅] TestOut Security, Network, PC, Client Pro
+<br>
+[🔄] Exercism: [🔄] JavaScript, [❌] Python, [❌] Rust, [❌] Go
 
 ### Languages / Frameworks / Stacks
 (ranked by familiarity)
@@ -61,12 +65,18 @@ Here you'll find my random repositories of projects, papers from college, and so
 3. VMWare / Hyper-V
 4. Semgrep
 
-### Books
+### Books / Docs
+[✅] Svelte + Sveltekit Official Tutorial
+<br>
 [❌] Bug Bounty Bootcamp
 <br>
 [❌] The Art of Mac Malware
 <br>
 [❌] Practical Binary Analysis
+<br>
+[❌] Swift Official Guided Tour
+<br>
+[❌] Hacking with MacOS by Paul Hudson
 <br>
 [❌] Advanced Apple Debugging & Reverse Engineering
 <br>
