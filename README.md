@@ -30,13 +30,11 @@ Here you'll find my random repositories of projects, papers from college, and so
 <br>
 [❌] Sektor7 Malware Development Advanced
 <br>
-[❌] Maldev Academy
-<br>
 [❌] WeHackPurple Secure Coding & Application Security Foundations 1, 2, 3
 <br>
 [❌] 100 Days of SwiftUI
 <br>
-[🔄] Exercism: [🔄] JavaScript, [❌] Python, [❌] Rust, [❌] Go
+[🔄] Exercism: [🔄] JavaScript, [❌] Python, [❌] Elixir
 
 ### Certifications
 [✅] CompTIA CySA+
@@ -53,10 +51,8 @@ Here you'll find my random repositories of projects, papers from college, and so
 (ranked by familiarity)
 1. Python
 2. JavaScript
-3. Sveltekit + Tailwind
-4. PostgreSQL / Supabase
+3. Sveltekit + Tailwind + PostgreSQL / Supabase
 5. C
-6. Go
 
 ### Tools
 1. Burp Suite Pro
@@ -64,7 +60,7 @@ Here you'll find my random repositories of projects, papers from college, and so
 3. VMWare / Hyper-V
 4. Semgrep
 
-### Books / Docs
+### Relevant Books / Docs
 [✅] Svelte + Sveltekit Official Tutorial
 <br>
 [❌] Bug Bounty Bootcamp
@@ -78,8 +74,6 @@ Here you'll find my random repositories of projects, papers from college, and so
 [❌] Hacking with MacOS by Paul Hudson
 <br>
 [❌] Advanced Apple Debugging & Reverse Engineering
-<br>
-[❌] Black Hat Rust
 <br>
 [❌] Evading EDR
 <br>
