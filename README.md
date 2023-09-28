@@ -19,6 +19,7 @@ I'm <b>Evan</b>, a recent grad from Dakota State University, where I specialized
 
 Here you'll find my random repositories of projects, papers from college, and some books/certs I'm interested in currently (not all-inclusive 😅). Feel free to reach out to me via my Twitter (@0xIbranum), Telegram (@Ibranum), or Signal (+1 803-599-8346).
 
+## Current Learning Plan
 ### Trainings / Courses
 [✅] Reverse Engineering & Malware Analysis of .NET & Java
 <br>
@@ -34,7 +35,7 @@ Here you'll find my random repositories of projects, papers from college, and so
 <br>
 [❌] 100 Days of SwiftUI
 <br>
-[🔄] Exercism: [🔄] JavaScript, [❌] Python, [❌] Elixir
+[🔄] Exercism: [🔄] JavaScript, [❌] Python
 
 ### Certifications
 [✅] CompTIA CySA+
@@ -65,16 +66,20 @@ Here you'll find my random repositories of projects, papers from college, and so
 <br>
 [❌] Bug Bounty Bootcamp
 <br>
-[❌] The Art of Mac Malware
-<br>
 [❌] Practical Binary Analysis
+<br>
+[❌] Evading EDR
+<br>
+[❌] Black Hat Bash
+
+### iOS + MacOS Specific
+[❌] The Art of Mac Malware
 <br>
 [❌] Swift Official Guided Tour
 <br>
 [❌] Hacking with MacOS by Paul Hudson
 <br>
 [❌] Advanced Apple Debugging & Reverse Engineering
-<br>
-[❌] Evading EDR
-<br>
-[❌] Black Hat Bash
+
+### Backburner
+[❌] Exercism Elixir
