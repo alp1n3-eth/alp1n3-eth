@@ -20,7 +20,7 @@ I'm <b>Evan</b>, a recent grad from Dakota State University, where I specialized
 Here you'll find my random repositories of projects, papers from college, and some books/certs I'm interested in currently (not all-inclusive 😅). Feel free to reach out to me via my Twitter (@0xIbranum), Telegram (@Ibranum), or Signal (+1 803-599-8346).
 
 ## Current Learning Plan
-### Trainings / Courses
+### Cybersecurity Trainings / Courses
 [✅] Reverse Engineering & Malware Analysis of .NET & Java
 <br>
 [🔄] TCM Practical Malware Analysis & Triage
@@ -32,10 +32,7 @@ Here you'll find my random repositories of projects, papers from college, and so
 [❌] Sektor7 Malware Development Advanced
 <br>
 [❌] WeHackPurple Secure Coding & Application Security Foundations 1, 2, 3
-<br>
-[❌] 100 Days of SwiftUI
-<br>
-[🔄] Exercism: [🔄] JavaScript, [❌] Python
+
 
 ### Certifications
 [✅] CompTIA CySA+
@@ -61,6 +58,11 @@ Here you'll find my random repositories of projects, papers from college, and so
 3. VMWare / Hyper-V
 4. Semgrep
 
+### Coding Trainings / Courses
+[🔄] Exercism: [🔄] JavaScript, [❌] Python
+<br>
+[🔄] FireShip Sveltekit
+
 ### Relevant Books / Docs
 [✅] Svelte + Sveltekit Official Tutorial
 <br>
@@ -77,9 +79,16 @@ Here you'll find my random repositories of projects, papers from college, and so
 <br>
 [❌] Swift Official Guided Tour
 <br>
+[❌] 100 Days of SwiftUI
+<br>
 [❌] Hacking with MacOS by Paul Hudson
 <br>
 [❌] Advanced Apple Debugging & Reverse Engineering
 
 ### Backburner
 [❌] Exercism Elixir
+<br>
+[❌] OverTheWire Vortex
+<br>
+[❌] Hands-On Fuzzing and Exploit Development
+
