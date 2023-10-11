@@ -21,9 +21,11 @@ Here you'll find my random repositories of projects, papers from college, and so
 
 ## Current Learning Plan
 ### Cybersecurity Trainings / Courses
+[🔄] TCM Practical Malware Analysis & Triage
+<br>
 [✅] Reverse Engineering & Malware Analysis of .NET & Java
 <br>
-[🔄] TCM Practical Malware Analysis & Triage
+[✅] Reverse Engineering 1: x64dbg Debugger for Beginners
 <br>
 [✅] Sektor7 Malware Development Essentials
 <br>
@@ -31,8 +33,7 @@ Here you'll find my random repositories of projects, papers from college, and so
 <br>
 [❌] Sektor7 Malware Development Advanced
 <br>
-[❌] WeHackPurple Secure Coding & Application Security Foundations 1, 2, 3
-
+[✅] WeHackPurple Secure Coding, Application Security Foundations 1
 
 ### Certifications
 [✅] CompTIA CySA+
@@ -47,8 +48,8 @@ Here you'll find my random repositories of projects, papers from college, and so
 
 ### Languages / Frameworks / Stacks
 (ranked by familiarity)
-1. Python
-2. JavaScript
+1. JavaScript
+2. Python
 3. Sveltekit + Tailwind + PostgreSQL / Supabase
 5. C
 
@@ -62,6 +63,8 @@ Here you'll find my random repositories of projects, papers from college, and so
 [🔄] Exercism: [🔄] JavaScript, [❌] Python
 <br>
 [🔄] FireShip Sveltekit
+<br>
+[🔄] NestJS Zero to Hero - Modern TypeScript Back-end Development
 
 ### Relevant Books / Docs
 [✅] Svelte + Sveltekit Official Tutorial
