@@ -21,7 +21,25 @@ Here you'll find my random repositories of projects, papers from college, and so
 
 ## Current Learning Plan
 ### Cybersecurity Trainings / Courses
-[🔄] TCM Practical Malware Analysis & Triage
+#### Web
+[✅] NetSPI University
+<br>
+[🔄] HTB Bug Bounty Hunter Path
+<br>
+[❌] HTB Senior Web Penetration Tester Path
+<br>
+[✅] Intro to Bug Bounty - Ben Sad (Udemy)
+<br>
+[✅] APISec University API Security Fundamentals
+<br>
+[✅] TCM Mobile Application Penetration Testing
+<br>
+[✅] WeHackPurple Secure Coding, Application Security Foundations 1
+
+#### Malware
+[✅] TCM Practical Malware Analysis & Triage
+<br>
+[🔄] Malware Analysis for Hedgehogs (Udemy)
 <br>
 [✅] Reverse Engineering & Malware Analysis of .NET & Java
 <br>
@@ -33,16 +51,15 @@ Here you'll find my random repositories of projects, papers from college, and so
 <br>
 [❌] Sektor7 Malware Development Advanced
 <br>
-[✅] WeHackPurple Secure Coding, Application Security Foundations 1
+[✅] Ghidra Basics
+<br>
 
 ### Certifications
 [✅] CompTIA CySA+
 <br>
-[❌] TCM Practical Junior Malware Researcher
+[🔄] HTB Certified Bug Bounty Hunter
 <br>
 [❌] OffSec Advanced Web Attacks and Exploitation (OSWE)
-<br>
-[❌] HTB Certified Bug Bounty Hunter
 <br>
 [✅] TestOut Security, Network, PC, Client Pro
 
@@ -50,7 +67,8 @@ Here you'll find my random repositories of projects, papers from college, and so
 (ranked by familiarity)
 1. JavaScript
 2. Python
-3. Sveltekit + Tailwind + PostgreSQL / Supabase
+3. Go
+4. Sveltekit + Tailwind + PostgreSQL / Supabase
 5. C
 
 ### Tools
@@ -60,38 +78,16 @@ Here you'll find my random repositories of projects, papers from college, and so
 4. Semgrep
 
 ### Coding Trainings / Courses
-[🔄] Exercism: [🔄] JavaScript, [❌] Python
+[🔄] Exercism: [🔄] JavaScript, [❌] Python, [❌] Go, [❌] x86-64 Assembly
 <br>
 [🔄] FireShip Sveltekit
 <br>
-[🔄] NestJS Zero to Hero - Modern TypeScript Back-end Development
+[✅] Web Scraping in Python: Master the Fundamentals (Udemy)
+
 
 ### Relevant Books / Docs
 [✅] Svelte + Sveltekit Official Tutorial
 <br>
 [❌] Bug Bounty Bootcamp
 <br>
-[❌] Practical Binary Analysis
-<br>
-[❌] Evading EDR
-<br>
-[❌] Black Hat Bash
-
-### iOS + MacOS Specific
-[❌] The Art of Mac Malware
-<br>
-[❌] Swift Official Guided Tour
-<br>
-[❌] 100 Days of SwiftUI
-<br>
-[❌] Hacking with MacOS by Paul Hudson
-<br>
-[❌] Advanced Apple Debugging & Reverse Engineering
-
-### Backburner
-[❌] Exercism Elixir
-<br>
-[❌] OverTheWire Vortex
-<br>
-[❌] Hands-On Fuzzing and Exploit Development
-
+[❌] Let's Go - Alex Edwards
