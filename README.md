@@ -47,7 +47,7 @@ Here you'll find my random repositories of projects, papers from college, and so
 <br>
 [✅] Sektor7 Malware Development Essentials
 <br>
-[🔄] Sektor7 Malware Development Intermediate
+[❌] Sektor7 Malware Development Intermediate
 <br>
 [❌] Sektor7 Malware Development Advanced
 <br>
