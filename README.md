@@ -52,7 +52,6 @@ Here you'll find my random repositories of projects, papers from college, and so
 [❌] Sektor7 Malware Development Advanced
 <br>
 [✅] Ghidra Basics
-<br>
 
 ### Certifications
 [✅] CompTIA CySA+
@@ -78,16 +77,24 @@ Here you'll find my random repositories of projects, papers from college, and so
 4. Semgrep
 
 ### Coding Trainings / Courses
-[🔄] Exercism: [🔄] JavaScript, [❌] Python, [❌] Go, [❌] x86-64 Assembly
+[🔄] Exercism: [❌] x86-64 Assembly
 <br>
 [🔄] FireShip Sveltekit
 <br>
 [✅] Web Scraping in Python: Master the Fundamentals (Udemy)
+<br>
+[❌] Golang Backend Masterclass (YT)
 
 
 ### Relevant Books / Docs
 [✅] Svelte + Sveltekit Official Tutorial
 <br>
+[🔄] HTMX Docs + Essays + Book (Hypermedia Systems)
+<br>
 [❌] Bug Bounty Bootcamp
 <br>
 [❌] Let's Go - Alex Edwards
+<br>
+[❌] Let's Go Further - Alex Edwards
+<br>
+[❌] gRPC Go for Professionals
