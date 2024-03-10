@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 I'm <b>Evan</b>, a recent grad from Dakota State University, where I specialized in cyber security.
 
-Here you'll find my random repositories of projects, papers from college, and some books/certs I'm interested in currently (not all-inclusive 😅). Feel free to reach out to me via my Twitter (@0xIbranum), Telegram (@Ibranum), or Signal (+1 803-599-8346).
+Here you'll find my random repositories of projects, papers from college, and some books/certs I'm interested in currently (not all-inclusive 😅). Feel free to reach out to me via LinkedIn.
 
 ## Current Learning Plan
 ### Cybersecurity Trainings / Courses
 #### Web
 [✅] NetSPI University
 <br>
-[🔄] HTB Bug Bounty Hunter Path
+[✅] HTB Bug Bounty Hunter Path
 <br>
 [❌] HTB Senior Web Penetration Tester Path
 <br>
@@ -38,8 +38,6 @@ Here you'll find my random repositories of projects, papers from college, and so
 
 #### Malware
 [✅] TCM Practical Malware Analysis & Triage
-<br>
-[🔄] Malware Analysis for Hedgehogs (Udemy)
 <br>
 [✅] Reverse Engineering & Malware Analysis of .NET & Java
 <br>
@@ -58,17 +56,18 @@ Here you'll find my random repositories of projects, papers from college, and so
 <br>
 [🔄] HTB Certified Bug Bounty Hunter
 <br>
+[❌] HTB Certified Web Exploitation Expert
+<br>
 [❌] OffSec Advanced Web Attacks and Exploitation (OSWE)
 <br>
 [✅] TestOut Security, Network, PC, Client Pro
 
-### Languages / Frameworks / Stacks
+### Languages
 (ranked by familiarity)
-1. JavaScript
-2. Python
-3. Go
-4. Sveltekit + Tailwind + PostgreSQL / Supabase
-5. C
+1. Go
+2. JavaScript
+3. Python
+4. C
 
 ### Tools
 1. Burp Suite Pro
@@ -77,24 +76,19 @@ Here you'll find my random repositories of projects, papers from college, and so
 4. Semgrep
 
 ### Coding Trainings / Courses
-[🔄] Exercism: [❌] x86-64 Assembly
+[🔄] Boot.dev - Go, CI/CD, Docker, Projects
 <br>
-[🔄] FireShip Sveltekit
+[❌] FireShip Sveltekit
 <br>
 [✅] Web Scraping in Python: Master the Fundamentals (Udemy)
-<br>
-[❌] Golang Backend Masterclass (YT)
 
-
-### Relevant Books / Docs
-[✅] Svelte + Sveltekit Official Tutorial
-<br>
-[🔄] HTMX Docs + Essays + Book (Hypermedia Systems)
-<br>
-[❌] Bug Bounty Bootcamp
+### Books / Docs
+[🔄] Learn Go with Tests - quii
 <br>
 [❌] Let's Go - Alex Edwards
 <br>
 [❌] Let's Go Further - Alex Edwards
 <br>
-[❌] gRPC Go for Professionals
+[❌] The Copenhagen Book - Pilcrow
+<br>
+[❌] Deployment from Scratch - Josef Strzibny
