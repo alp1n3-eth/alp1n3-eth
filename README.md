@@ -1,21 +1,6 @@
 # Hi there 👋
 
-<!--
-**Ibranum/Ibranum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I'm <b>Evan</b>, a recent grad from Dakota State University, where I specialized in cyber security.
+I'm <b>Evan</b>, a recent grad from Dakota State University, where I received a MS in Cyber Defense and a BS in Cyber Operations.
 
 Here you'll find my random repositories of projects, papers from college, and some books/certs I'm interested in currently (not all-inclusive 😅). Feel free to reach out to me via LinkedIn.
 
@@ -54,7 +39,7 @@ Here you'll find my random repositories of projects, papers from college, and so
 ### Certifications
 [✅] CompTIA CySA+
 <br>
-[🔄] HTB Certified Bug Bounty Hunter
+[✅] HTB Certified Bug Bounty Hunter
 <br>
 [❌] HTB Certified Web Exploitation Expert
 <br>
@@ -70,13 +55,13 @@ Here you'll find my random repositories of projects, papers from college, and so
 4. C
 
 ### Tools
-1. Burp Suite Pro
+1. Burp Suite (Pro)
 2. Wireshark / Brim
 3. VMWare / Hyper-V
 4. Semgrep
 
 ### Coding Trainings / Courses
-[🔄] Boot.dev - Go, CI/CD, Docker, Projects
+[✅] Boot.dev - Learn Go, Learn Web Servers
 <br>
 [❌] FireShip Sveltekit
 <br>
@@ -85,7 +70,7 @@ Here you'll find my random repositories of projects, papers from college, and so
 ### Books / Docs
 [🔄] Learn Go with Tests - quii
 <br>
-[❌] Let's Go - Alex Edwards
+[🔄] Let's Go - Alex Edwards
 <br>
 [❌] Let's Go Further - Alex Edwards
 <br>
