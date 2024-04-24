@@ -4,9 +4,16 @@ I'm <b>Evan</b>, a recent grad from Dakota State University, where I received a 
 
 Here you'll find my random repositories of projects, papers from college, and some books/certs I'm interested in currently (not all-inclusive 😅). Feel free to reach out to me via LinkedIn.
 
-## Current Learning Plan
-### Cybersecurity Trainings / Courses
-#### Web
+KEY:
+❌ = Not Started
+<br>
+🔄 = In-Progress
+<br>
+✅ = Done
+
+# Education Roadmap
+## Cybersecurity Trainings / Courses
+### Web
 [✅] NetSPI University
 <br>
 [✅] HTB Bug Bounty Hunter Path
@@ -21,7 +28,7 @@ Here you'll find my random repositories of projects, papers from college, and so
 <br>
 [✅] WeHackPurple Secure Coding, Application Security Foundations 1
 
-#### Malware
+### Malware
 [✅] TCM Practical Malware Analysis & Triage
 <br>
 [✅] Reverse Engineering & Malware Analysis of .NET & Java
@@ -55,7 +62,7 @@ Here you'll find my random repositories of projects, papers from college, and so
 4. C
 
 ### Tools
-1. Burp Suite (Pro)
+1. Burp Suite Pro
 2. Wireshark / Brim
 3. VMWare / Hyper-V
 4. Semgrep
@@ -70,10 +77,19 @@ Here you'll find my random repositories of projects, papers from college, and so
 ### Books / Docs
 [🔄] Learn Go with Tests - quii
 <br>
-[🔄] Let's Go - Alex Edwards
-<br>
-[❌] Let's Go Further - Alex Edwards
+[✅] Let's Go - Alex Edwards
 <br>
 [❌] The Copenhagen Book - Pilcrow
 <br>
+[❌] Let's Go Further - Alex Edwards
+<br>
 [❌] Deployment from Scratch - Josef Strzibny
+<br>
+[❌] Black Hat Go
+
+### Degrees
+[✅] Bachelor of Science in Cyber Operations - Dakota State University
+<br>
+[✅] Master of Science in Cyber Defense - Dakota State University
+<br>
+[❌] Doctor of Philosophy in Computer Science, Specialization in Cybersecurity - New York University
