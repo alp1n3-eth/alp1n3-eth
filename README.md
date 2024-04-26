@@ -4,7 +4,20 @@ I'm <b>Evan</b>, a recent grad from Dakota State University, where I received a 
 
 Here you'll find my random repositories of projects, papers from college, and some books/certs I'm interested in currently (not all-inclusive 😅). Feel free to reach out to me via LinkedIn.
 
-KEY:
+### Languages
+(ranked by familiarity)
+1. Go
+2. JavaScript
+3. Python
+4. C
+
+### Tools
+1. Burp Suite Pro
+2. Wireshark / Brim
+3. VMWare / Hyper-V
+4. Semgrep
+
+### KEY:
 ❌ = Not Started
 <br>
 🔄 = In-Progress
@@ -12,6 +25,13 @@ KEY:
 ✅ = Done
 
 # Education Roadmap
+### Degrees
+[✅] Bachelor of Science in Cyber Operations - Dakota State University
+<br>
+[✅] Master of Science in Cyber Defense - Dakota State University
+<br>
+[❌] Doctor of Philosophy in Computer Science, Specialization in Cybersecurity - New York University
+
 ## Cybersecurity Trainings / Courses
 ### Web
 [✅] NetSPI University
@@ -41,6 +61,8 @@ KEY:
 <br>
 [❌] Sektor7 Malware Development Advanced
 <br>
+[❌] MalDev Academy
+<br>
 [✅] Ghidra Basics
 
 ### Certifications
@@ -54,25 +76,14 @@ KEY:
 <br>
 [✅] TestOut Security, Network, PC, Client Pro
 
-### Languages
-(ranked by familiarity)
-1. Go
-2. JavaScript
-3. Python
-4. C
-
-### Tools
-1. Burp Suite Pro
-2. Wireshark / Brim
-3. VMWare / Hyper-V
-4. Semgrep
-
-### Coding Trainings / Courses
+### Programming Trainings / Courses
 [✅] Boot.dev - Learn Go, Learn Web Servers
 <br>
 [❌] FireShip Sveltekit
 <br>
 [✅] Web Scraping in Python: Master the Fundamentals (Udemy)
+<br>
+[❌] Ardan Labs (through O'Reilly) - Ultimate Go
 
 ### Books / Docs
 [🔄] Learn Go with Tests - quii
@@ -87,9 +98,13 @@ KEY:
 <br>
 [❌] Black Hat Go
 
-### Degrees
-[✅] Bachelor of Science in Cyber Operations - Dakota State University
+## Operating Systems
+### NixOS
+[❌] NixOS & Flakes Book - https://nixos-and-flakes.thiscute.world/
 <br>
-[✅] Master of Science in Cyber Defense - Dakota State University
+[❌] Zero to Nix - https://zero-to-nix.com/
+
+### CoreOS / SilverBlue
+[❌] Getting Started with CoreOS - https://docs.fedoraproject.org/en-US/fedora-coreos/getting-started/
 <br>
-[❌] Doctor of Philosophy in Computer Science, Specialization in Cybersecurity - New York University
+[❌] Getting Started with Butane - https://coreos.github.io/butane/
