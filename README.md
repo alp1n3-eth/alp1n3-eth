@@ -4,14 +4,14 @@ I'm <b>Evan</b>, a recent grad from Dakota State University, where I received a 
 
 Here you'll find my random repositories of projects, papers from college, and some books/certs I'm interested in currently (not all-inclusive 😅). Feel free to reach out to me via LinkedIn.
 
-### Languages
+## Languages
 (ranked by familiarity)
 1. Go
 2. JavaScript
 3. Python
 4. C
 
-### Tools
+## Tools
 1. Burp Suite Pro
 2. Wireshark / Brim
 3. VMWare / Hyper-V
@@ -25,7 +25,7 @@ Here you'll find my random repositories of projects, papers from college, and so
 ✅ = Done
 
 # Education Roadmap
-### Degrees
+## Degrees
 [✅] Bachelor of Science in Cyber Operations - Dakota State University
 <br>
 [✅] Master of Science in Cyber Defense - Dakota State University
@@ -77,24 +77,28 @@ Here you'll find my random repositories of projects, papers from college, and so
 ### Programming Trainings / Courses
 [✅] Boot.dev - Learn Go, Learn Web Servers
 <br>
-[❌] FireShip Sveltekit
-<br>
 [✅] Web Scraping in Python: Master the Fundamentals (Udemy)
 <br>
 [❌] Ardan Labs (through O'Reilly) - Ultimate Go
+<br>
+[❌] FireShip Sveltekit
 
 ### Books / Docs
+#### Go
 [🔄] Learn Go with Tests - quii
 <br>
 [✅] Let's Go - Alex Edwards
 <br>
-[❌] The Copenhagen Book - Pilcrow
-<br>
 [❌] Let's Go Further - Alex Edwards
 <br>
-[❌] Deployment from Scratch - Josef Strzibny
-<br>
 [❌] Black Hat Go
+
+#### Other
+[❌] The Copenhagen Book - Pilcrow
+<br>
+[❌] Understanding Distributed Systems - https://understandingdistributed.systems/
+<br>
+[❌] Deployment from Scratch - Josef Strzibny
 
 ## Operating Systems
 ### NixOS
