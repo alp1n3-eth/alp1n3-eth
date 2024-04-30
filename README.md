@@ -104,7 +104,7 @@ Here you'll find my random repositories of projects, papers from college, and so
 ### NixOS
 [❌] NixOS & Flakes Book - https://nixos-and-flakes.thiscute.world/
 <br>
-[❌] Zero to Nix - https://zero-to-nix.com/
+[✅] Zero to Nix - https://zero-to-nix.com/
 <br>
 [❌] NixOS in Production
 
