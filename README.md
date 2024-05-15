@@ -96,8 +96,6 @@ Here you'll find my random repositories of projects, papers from college, and so
 [❌] Let's Go Further - Alex Edwards
 <br>
 [❌] Black Hat Go
-<br>
-[❌] Ultimate Go - Bill Kennedy
 
 #### Other
 [❌] The Copenhagen Book - Pilcrow
