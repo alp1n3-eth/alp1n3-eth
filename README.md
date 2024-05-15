@@ -47,6 +47,10 @@ Here you'll find my random repositories of projects, papers from college, and so
 [✅] TCM Mobile Application Penetration Testing
 <br>
 [✅] WeHackPurple Secure Coding, Application Security Foundations 1
+<br>
+[❌] PentesterLab Code Review Badge
+<br>
+[❌] Web Security Academy - Rana Khalil
 
 ### Malware
 [✅] TCM Practical Malware Analysis & Triage
@@ -101,6 +105,10 @@ Here you'll find my random repositories of projects, papers from college, and so
 [❌] Understanding Distributed Systems - https://understandingdistributed.systems/
 <br>
 [❌] Deployment from Scratch - Josef Strzibny
+<br>
+[❌] Hacking APIs - Corey Ball
+<br>
+[❌] Black Hat GraphQL
 
 ## Random
 ### NixOS
