@@ -92,6 +92,8 @@ Here you'll find my random repositories of projects, papers from college, and so
 [❌] Let's Go Further - Alex Edwards
 <br>
 [❌] Black Hat Go
+<br>
+[❌] Ultimate Go - Bill Kennedy
 
 #### Other
 [❌] The Copenhagen Book - Pilcrow
@@ -100,15 +102,10 @@ Here you'll find my random repositories of projects, papers from college, and so
 <br>
 [❌] Deployment from Scratch - Josef Strzibny
 
-## Operating Systems
+## Random
 ### NixOS
 [❌] NixOS & Flakes Book - https://nixos-and-flakes.thiscute.world/
 <br>
 [✅] Zero to Nix - https://zero-to-nix.com/
 <br>
 [❌] NixOS in Production
-
-### CoreOS / SilverBlue
-[❌] Getting Started with CoreOS - https://docs.fedoraproject.org/en-US/fedora-coreos/getting-started/
-<br>
-[❌] Getting Started with Butane - https://coreos.github.io/butane/
