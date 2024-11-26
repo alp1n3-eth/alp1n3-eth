@@ -40,6 +40,10 @@ Here you'll find my random repositories of projects, papers from college, and so
 <br>
 [✅] HTB Bug Bounty Hunter Path
 <br>
+[❌] TryHackMe Web Application Pentesting Path - https://tryhackme.com/r/path/outline/webapppentesting?ref=blog.tryhackme.com
+<br>
+[❌] PentesterLab Code Review Badge
+<br>
 [❌] HTB Senior Web Penetration Tester Path
 <br>
 [✅] Intro to Bug Bounty - Ben Sad (Udemy)
@@ -49,8 +53,6 @@ Here you'll find my random repositories of projects, papers from college, and so
 [✅] TCM Mobile Application Penetration Testing
 <br>
 [✅] WeHackPurple Secure Coding, Application Security Foundations 1
-<br>
-[❌] PentesterLab Code Review Badge
 <br>
 
 ### Certifications
@@ -63,6 +65,7 @@ Here you'll find my random repositories of projects, papers from college, and so
 [❌] OffSec Advanced Web Attacks and Exploitation (OSWE)
 <br>
 [✅] TestOut Security, Network, PC, Client Pro
+<br>
 
 ### Programming Trainings / Courses
 [✅] Boot.dev - Learn Go, Learn Web Servers
@@ -76,6 +79,7 @@ Here you'll find my random repositories of projects, papers from college, and so
 [❌] FireShip Sveltekit (For more exposure to web apps)
 <br>
 [❌] Elixir & Phoenix - https://pragmaticstudio.com/elixir (For more exposure to web apps)
+<br>
 
 ### Books / Docs
 #### Go
@@ -86,6 +90,7 @@ Here you'll find my random repositories of projects, papers from college, and so
 [❌] Let's Go Further - Alex Edwards
 <br>
 [❌] Black Hat Go
+<br>
 
 ### Other / Back-Burner
 #### Malware
@@ -112,3 +117,4 @@ Here you'll find my random repositories of projects, papers from college, and so
 [❌] Hacking APIs - Corey Ball
 <br>
 [❌] Black Hat GraphQL
+<br>
