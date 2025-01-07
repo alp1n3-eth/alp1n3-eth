@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm <b>Evan</b>, a grad from Dakota State University, where I received a MS in Cyber Defense and a BS in Cyber Operations. 
+I'm <b>Evan</b>, a grad from Dakota State University, where I received a MS in Cyber Defense and a BS in Cyber Operations. My main interests revolve around application security; learning more about web application penetration testing, secure code review, bug bounty hunting, etc.
 
 Here you'll find my random repositories of projects, papers from college, and some books/certs I'm interested in currently (not all-inclusive 😅). Feel free to reach out to me via LinkedIn.
 
