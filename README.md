@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm <b>Evan</b>, a grad from Dakota State University, where I received a MS in Cyber Defense and a BS in Cyber Operations.
+I'm <b>Evan</b>, a grad from Dakota State University, where I received a MS in Cyber Defense and a BS in Cyber Operations. 
 
 Here you'll find my random repositories of projects, papers from college, and some books/certs I'm interested in currently (not all-inclusive 😅). Feel free to reach out to me via LinkedIn.
 
@@ -8,21 +8,21 @@ Here you'll find my random repositories of projects, papers from college, and so
 (ranked by familiarity)
 1. Go (main)
 2. JavaScript
-3. Python (Haven't used in a few years)
+3. Python (Haven't used heavily in a few years)
 4. C (Haven't used since college)
 
-## Tools
+## Tools Used Day-to-Day
 1. Burp Suite Pro
   - BChecks & Bambdas
-2. ffuf, SQLMap, interactsh
-3. Wireshark / Brim
-4. VMWare / Hyper-V
-5. Semgrep
+  - Auth Analyzer (previously used Autorize)
+  - Hackvertor
+  - Plus other extensions and features
+2. ffuf, SQLMap, interactsh, Caido
 
 ### KEY:
 ❌ = Not Started
 <br>
-🔄 = In-Progress
+🔄 = In-Progress / Worked Through Some Sections
 <br>
 ✅ = Done
 
@@ -33,6 +33,7 @@ Here you'll find my random repositories of projects, papers from college, and so
 [✅] Master of Science in Cyber Defense - Dakota State University
 <br>
 [❌] Doctor of Philosophy in Computer Science, Specialization in Cybersecurity - New York University
+<br>
 
 ## Cybersecurity & Programming Trainings / Courses / Books
 ### Web
@@ -60,39 +61,46 @@ Here you'll find my random repositories of projects, papers from college, and so
 <br>
 [✅] HTB Certified Bug Bounty Hunter
 <br>
-[❌] HTB Certified Web Exploitation Expert
+[❌] HTB Certified Web Exploitation Expert (CWEE)
 <br>
 [❌] OffSec Advanced Web Attacks and Exploitation (OSWE)
 <br>
 [✅] TestOut Security, Network, PC, Client Pro
 <br>
 
-### Programming Trainings / Courses
-[✅] Boot.dev - Learn Go, Learn Web Servers
+### Programming
+#### Go
+##### Main Roadmap
+[🔄] Learn Go with Tests - quii
 <br>
-[✅] Web Scraping in Python: Master the Fundamentals (Udemy)
+[✅] Let's Go - Alex Edwards
+<br>
+[❌] Building Modern CLI Applications in Go - Marian Montagnino
+<br>
+[❌] Let's Go Further - Alex Edwards
 <br>
 [❌] Ardan Labs Go Courses - https://www.ardanlabs.com/training/ultimate-go/ (Alternative "Ultimate Go" is free through O'Reilly for those looking for cheaper options, Ardan Labs also offers scholarships/discounts for those who need it)
 <br>
 [❌] gRPC [Golang] Master Class: Build Modern API & Microservices - https://www.udemy.com/course/grpc-golang/?couponCode=BFCPSALE24
 <br>
+[❌] Black Hat Go
+<br>
+
+##### Side Quests 
+Things I went through but didn't find as useful.
+
+[✅] Boot.dev - Learn Go, Learn Web Servers
+<br>
+[✅] Web Scraping in Python: Master the Fundamentals (Udemy)
+<br>
+
+### Other Langs / Focuses
 [❌] FireShip Sveltekit (For more exposure to web apps)
 <br>
 [❌] Elixir & Phoenix - https://pragmaticstudio.com/elixir (For more exposure to web apps)
 <br>
 
-### Books / Docs
-#### Go
-[🔄] Learn Go with Tests - quii
-<br>
-[✅] Let's Go - Alex Edwards
-<br>
-[❌] Let's Go Further - Alex Edwards
-<br>
-[❌] Black Hat Go
-<br>
-
-### Other / Back-Burner
+### Back-Burner
 #### Malware
 [✅] Ghidra Basics
 <br>
